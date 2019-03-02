@@ -1,5 +1,4 @@
-# Title
-Django Tutorial
+h1 Django Tutorial
 ================
 
 # content
