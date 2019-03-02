@@ -9,10 +9,10 @@ Django Tutorial
 4. ※ python, djangon 에서 사용중인 이름은 피해야함 | ex) django, python, test
 
 # project structure
--mysite/
---    manage.py
---    mysite/
----        __init__.py
----        settings.py
----        urls.py
----        wsgi.py
+- mysite/
+  - manage.py
+  -mysite/
+    - __init__.py
+    - settings.py
+    - urls.py
+    - wsgi.py
